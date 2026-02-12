@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Bildgalleri</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Bildgalleri</h1>
+
+    <nav aria-label="Kategorier" class="tabs">
+      <button class="tab is-active" data-category="all" type="button">Alla</button>
+      <button class="tab" data-category="nature" type="button">Natur</button>
+      <button class="tab" data-category="city" type="button">Stad</button>
+      <button class="tab" data-category="animals" type="button">Djur</button>
+      <button class="tab" data-category="food" type="button">Mat</button>
+    </nav>
+
+    <section class="controls" aria-label="Filter och sök">
+      <label class="search">
+        <span class="sr-only">Sök</span>
+        <input id="searchInput" type="search" placeholder="Sök på titel, kategori eller taggar…" autocomplete="off" />
+      </label>
+
+      <section class="tag-filter" aria-label="Taggfilter">
+        <label class="search">
+          <span class="sr-only">Sök taggar</span>
+          <input id="tagInput" type="search" placeholder="Lägg till tagg…" autocomplete="off" />
+        </label>
+
+        <div id="tagSuggestions" class="suggestions" role="listbox" aria-label="Taggförslag"></div>
+
+        <div class="top-tags">
+          <p class="hint">Top 20 vanligaste taggar:</p>
+          <div id="topTagChips" class="chips" role="list"></div>
+        </div>
+
+        <div class="selected-tags">
+          <p class="hint">Valda taggar:</p>
+          <div id="selectedTagChips" class="chips" role="list"></div>
+          <button id="clearTagsBtn" type="button" class="linklike">Rensa taggar</button>
+        </div>
+      </section>
+    </section>
+  </header>
+
+  <main>
+    <section aria-label="Galleri">
+      <p id="statusLine" class="status" aria-live="polite"></p>
+      <div id="gallery" class="gallery" aria-label="Bilder"></div>
+    </section>
+  </main>
+
+  <dialog id="viewer" class="viewer">
+    <figure class="viewer-figure">
+      <button id="closeViewerBtn" class="viewer-close" type="button" aria-label="Stäng">✕</button>
+      <img id="viewerImg" alt="" />
+      <figcaption id="viewerCaption"></figcaption>
+    </figure>
+  </dialog>
+
+  <footer class="site-footer">
+    <small>Image gallery by Robin Grahn</small>
+  </footer>
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
