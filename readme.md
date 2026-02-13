@@ -18,8 +18,6 @@ Lazy loading and async image decoding
 
 Category tab filtering
 
-Tag-based filtering (AND logic)
-
 Dynamic tag suggestions
 
 Search across title, category and tags
