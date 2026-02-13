@@ -5,7 +5,8 @@
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "test:watch": "npm run test -- --watch",
-    "coverage": "npm run test -- --coverage"
+    "coverage": "npm run test -- --coverage",
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -21,4 +22,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+  
 }
