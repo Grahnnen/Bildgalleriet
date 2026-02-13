@@ -1,47 +1,358 @@
 {
   "images": [
-    { "id": "nature-01", "title": "Morgon i skogen", "category": "nature", "tags": ["forest","morning","mist"], "thumb": "https://images.unsplash.com/photo-1426170042593-200f250dfdaf?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1426170042593-200f250dfdaf?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Dimma i en skog på morgonen" },
-    { "id": "nature-02", "title": "Bergsluft", "category": "nature", "tags": ["mountain","hike","sky"], "thumb": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Berg och himmel" },
-    { "id": "nature-03", "title": "Sjö vid solnedgång", "category": "nature", "tags": ["lake","sunset","reflection"], "thumb": "https://images.unsplash.com/photo-1581956713636-e37c70888100?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1581956713636-e37c70888100?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Solnedgång över en sjö" },
-    { "id": "nature-04", "title": "Vattenfall", "category": "nature", "tags": ["waterfall","river","rocks"], "thumb": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Vattenfall i natur" },
-    { "id": "nature-05", "title": "Nordiskt vinterljus", "category": "nature", "tags": ["winter","snow","light"], "thumb": "https://images.unsplash.com/photo-1704364097538-ce61c7b4ec76?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1704364097538-ce61c7b4ec76?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Vinterlandskap med snö" },
-    { "id": "nature-06", "title": "Äng", "category": "nature", "tags": ["meadow","flowers","summer"], "thumb": "https://images.unsplash.com/photo-1592856908193-b9934576cf3d?q=80&w=698&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1592856908193-b9934576cf3d?q=80&w=698&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Äng med blommor" },
-    { "id": "nature-07", "title": "Kustklippor", "category": "nature", "tags": ["coast","cliffs","sea"], "thumb": "https://images.unsplash.com/photo-1446038202205-1c96430dbdab?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1446038202205-1c96430dbdab?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Klippor vid havet" },
-    { "id": "nature-08", "title": "Regnskog", "category": "nature", "tags": ["rainforest","green","humidity"], "thumb": "https://images.unsplash.com/photo-1556648011-e01aca870a81?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1556648011-e01aca870a81?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Tät grön vegetation" },
-    { "id": "nature-09", "title": "Stjärnhimmel", "category": "nature", "tags": ["night","stars","milkyway"], "thumb": "https://images.unsplash.com/photo-1596016691838-70260f1e21c6?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1596016691838-70260f1e21c6?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Stjärnor på natthimlen" },
-    { "id": "nature-10", "title": "Fält och moln", "category": "nature", "tags": ["field","clouds","wind"], "thumb": "https://plus.unsplash.com/premium_photo-1668351277191-9df852eb657f?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://plus.unsplash.com/premium_photo-1668351277191-9df852eb657f?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Fält under moln" },
+    { 
+      "id": "nature-01",
+      "title": "Morgon i skogen",
+      "category": "nature",
+      "tags": ["forest","morning","mist"], 
+      "thumb": "assets/thumbs/Morgon i Skogen.jpg", 
+      "full": "assets/full/Morgon i Skogen.jpg",
+      "alt": "Dimma i en skog på morgonen" },
+    { 
+      "id": "nature-02",
+       "title": "Bergsluft",
+      "category": "nature",
+      "tags": ["mountain","hike","sky"],
+      "thumb": "assets/thumbs/bergsluft.jpg",
+      "full": "assets/full/bergsluft.jpg",
+      "alt": "Berg och himmel" },
+    { 
+      "id": "nature-03",
+      "title": "Sjö vid solnedgång",
+      "category": "nature",
+      "tags": ["lake","sunset","reflection"],
+      "thumb": "assets/thumbs/sjö vid solnedgång.jpg",
+      "full": "assets/full/sjö vid solnedgång.jpg",
+      "alt": "Solnedgång över en sjö" },
+    { 
+      "id": "nature-04",
+      "title": "Vattenfall",
+      "category": "nature",
+      "tags": ["waterfall","river","rocks"],
+      "thumb": "assets/thumbs/vattenfall.jpg",
+      "full": "assets/full/vattenfall.jpg",
+      "alt": "Vattenfall i natur" },
+    { 
+      "id": "nature-05",
+      "title": "Nordiskt vinterljus",
+      "category": "nature",
+      "tags": ["winter","snow","light"],
+      "thumb": "assets/thumbs/nordiskt vinterljus.jpg",
+      "full": "assets/full/nordiskt vinterljus.jpg",
+      "alt": "Vinterlandskap med snö" },
+    { 
+      "id": "nature-06",
+      "title": "Äng",
+      "category": "nature",
+      "tags": ["meadow","flowers","summer"],
+      "thumb": "assets/thumbs/äng.jpg",
+      "full": "assets/full/äng.jpg",
+      "alt": 	"Äng med blommor" },
+    { 
+      "id": "nature-07",
+     	"title":"Kustklippor",
+      "category":"nature",
+      "tags":["coast","cliffs","sea"],
+      "thumb":"assets/thumbs/kustklippor.jpg",
+      "full":"assets/full/kustklippor.jpg",
+      "alt":"Klippor vid havet"},
+    { 	
+      "id":"nature-08",
+      "title":"Regnskog",
+      "category":"nature",
+      "tags":["rainforest","green","humidity"],
+      "thumb":"assets/thumbs/regnskog.jpg",
+      "full":"assets/full/regnskog.jpg",
+      "alt":"Tät grön vegetation"
+    },
+    { 
+      "id": "nature-09",
+      "title": "Stjärnhimmel",
+      "category": "nature",
+      "tags": ["night","stars","milkyway"],
+      "thumb": "assets/thumbs/stjärnhimmel.jpg",
+      "full": "assets/full/stjärnhimmel.jpg",
+      "alt": "Stjärnor på natthimlen" 
+    },
+    { 
+      "id": "nature-10",
+      "title": "Fält och moln",
+      "category": "nature",
+      "tags": ["field","clouds","wind"],
+      "thumb": "assets/thumbs/Målnfält.jpg",
+      "full": "assets/full/Målnfält.jpg",
+      "alt": "Fält under moln" 
+    },
 
-    { "id": "city-01", "title": "Nattljus", "category": "city", "tags": ["night","lights","street"], "thumb": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Stadsgata på kvällen" },
-    { "id": "city-02", "title": "Tunnelbana", "category": "city", "tags": ["metro","commute","urban"], "thumb": "https://images.unsplash.com/photo-1529179307417-ca83d48bd790?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1529179307417-ca83d48bd790?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Tunnelbanestation" },
-    { "id": "city-03", "title": "Skyskrapor", "category": "city", "tags": ["skyline","architecture","glass"], "thumb": "https://images.unsplash.com/photo-1443527394413-4b820fd08dde?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1443527394413-4b820fd08dde?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Höga byggnader" },
-    { "id": "city-04", "title": "Café i hörnet", "category": "city", "tags": ["cafe","people","street"], "thumb": "https://images.unsplash.com/photo-1665308761228-41c11cf33695?q=80&w=654&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1665308761228-41c11cf33695?q=80&w=654&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Café vid gata" },
-    { "id": "city-05", "title": "Regn på asfalt", "category": "city", "tags": ["rain","reflections","traffic"], "thumb": "https://images.unsplash.com/photo-1664638191329-aa04820dc5bd?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1664638191329-aa04820dc5bd?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Reflektioner i regn" },
-    { "id": "city-06", "title": "Bro i morgonljus", "category": "city", "tags": ["bridge","morning","river"], "thumb": "https://images.unsplash.com/photo-1641889153605-f56ac0f648c1?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1641889153605-f56ac0f648c1?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Bro över vatten" },
-    { "id": "city-07", "title": "Gammal gränd", "category": "city", "tags": ["alley","oldtown","stone"], "thumb": "https://images.unsplash.com/photo-1601654152371-0ceae53a92c7?q=80&w=868&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1601654152371-0ceae53a92c7?q=80&w=868&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Småstad/gränd" },
-    { "id": "city-08", "title": "Neon", "category": "city", "tags": ["neon","signs","night"], "thumb": "https://images.unsplash.com/photo-1528620575091-7310b88d7ebd?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1528620575091-7310b88d7ebd?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Neonskyltar" },
-    { "id": "city-09", "title": "Spårvagn", "category": "city", "tags": ["tram","transport","urban"], "thumb": "https://images.unsplash.com/photo-1649260349635-0f1b62ffb26e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1649260349635-0f1b62ffb26e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Spårvagn i stad" },
-    { "id": "city-10", "title": "Torg", "category": "city", "tags": ["square","market","day"], "thumb": "https://images.unsplash.com/photo-1543364029-4d4a314235f3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "full": "https://images.unsplash.com/photo-1543364029-4d4a314235f3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "alt": "Torg med folk" },
+    { 
+      "id": "city-01",
+      "title": "Nattljus",
+      "category": "city",
+      "tags": ["night","lights","street"],
+      "thumb": "assets/thumbs/stadsljus.jpg",
+      "full": "assets/thumbs/stadsljus.jpg",
+      "alt": "Stadsgata på kvällen" 
+    },
+    { 
+      "id": "city-02",
+      "title": "Tunnelbana",
+      "category": "city",
+      "tags": ["metro","commute","urban"],
+      "thumb": "assets/thumbs/Tunnelbana.jpg",
+      "full": "assets/full/Tunnelbana.jpg",
+      "alt": "Tunnelbanestation" 
+    },
+    { 
+      "id": "city-03",
+      "title": "Skyskrapor",
+      "category": "city",
+      "tags": ["skyline","architecture","glass"],
+      "thumb": "assets/thumbs/Skyskrapa.jpg",
+      "full": "assets/full/Skyskrapa.jpg",
+      "alt": "Höga byggnader" 
+    },
+    { 
+      "id": "city-04",
+      "title": "Café i hörnet",
+      "category": "city",
+      "tags": ["cafe","people","street"],
+      "thumb": "assets/thumbs/Cafee.jpg",
+      "full": "assets/full/Cafee.jpg",
+      "alt": "Café vid gata" 
+    },
+    { 
+      "id": "city-05",
+      "title": "Regn på asfalt",
+      "category": "city", 
+      "tags": ["rain","reflections","traffic"],
+      "thumb": "assets/thumbs/regn på asfalt.jpg",
+      "full": "assets/full/regn på asfalt.jpg",
+      "alt": "Reflektioner i regn" 
+    },
+    { 
+      "id": "city-06",
+      "title": "Bro i morgonljus",
+      "category": "city",
+      "tags": ["bridge","morning","river"],
+      "thumb": "assets/thumbs/Bro i morgonljus.jpg",
+      "full": "assets/full/Bro i morgonljus.jpg",
+      "alt": "Bro över vatten" 
+    },
+    { 
+      "id": "city-07",
+      "title": "Gammal gränd",
+      "category": "city",
+      "tags": ["alley","oldtown","stone"],
+      "thumb": "assets/thumbs/gränd.jpg",
+      "full": "assets/full/gränd.jpg",
+      "alt": "Småstad/gränd" 
+    },
+    { 
+      "id": "city-08",
+      "title": "Neon",
+      "category": "city",
+      "tags": ["neon","signs","night"],
+      "thumb": "assets/thumbs/neon.jpg",
+      "full": "assets/full/neon.jpg",
+      "alt": "Neonskyltar" 
+    },
+    { 
+      "id": "city-09",
+      "title": "Spårvagn",
+      "category": "city",
+      "tags": ["tram","transport","urban"],
+      "thumb": "assets/thumbs/Spårvagn.jpg",
+      "full": "assets/full/Spårvagn.jpg",
+      "alt": "Spårvagn i stad" 
+    },
+    { 
+      "id": "city-10",
+      "title": "Torg",
+      "category": "city",
+      "tags": ["square","market","day"],
+      "thumb": "assets/thumbs/torg.jpg",
+      "full": "assets/full/torg.jpg",
+      "alt": "Torg med folk" 
+    },
 
-    { "id": "animals-01", "title": "Nyfiken räv", "category": "animals", "tags": ["fox","wildlife","forest"], "thumb": "assets/thumbs/animals-01.webp", "full": "assets/full/animals-01.webp", "alt": "Räv i natur" },
-    { "id": "animals-02", "title": "Fågel i flykt", "category": "animals", "tags": ["bird","wings","sky"], "thumb": "assets/thumbs/animals-02.webp", "full": "assets/full/animals-02.webp", "alt": "Fågel flyger" },
-    { "id": "animals-03", "title": "Katt i fönster", "category": "animals", "tags": ["cat","cozy","home"], "thumb": "assets/thumbs/animals-03.webp", "full": "assets/full/animals-03.webp", "alt": "Katt vid fönster" },
-    { "id": "animals-04", "title": "Häst i hage", "category": "animals", "tags": ["horse","field","sun"], "thumb": "assets/thumbs/animals-04.webp", "full": "assets/full/animals-04.webp", "alt": "Häst på fält" },
-    { "id": "animals-05", "title": "Hund på promenad", "category": "animals", "tags": ["dog","walk","park"], "thumb": "assets/thumbs/animals-05.webp", "full": "assets/full/animals-05.webp", "alt": "Hund i park" },
-    { "id": "animals-06", "title": "Uggla", "category": "animals", "tags": ["owl","night","eyes"], "thumb": "assets/thumbs/animals-06.webp", "full": "assets/full/animals-06.webp", "alt": "Uggla i närbild" },
-    { "id": "animals-07", "title": "Fisk under ytan", "category": "animals", "tags": ["fish","underwater","blue"], "thumb": "assets/thumbs/animals-07.webp", "full": "assets/full/animals-07.webp", "alt": "Fisk under vatten" },
-    { "id": "animals-08", "title": "Björnungar", "category": "animals", "tags": ["bear","cubs","wild"], "thumb": "assets/thumbs/animals-08.webp", "full": "assets/full/animals-08.webp", "alt": "Björnungar" },
-    { "id": "animals-09", "title": "Rådjur", "category": "animals", "tags": ["deer","meadow","calm"], "thumb": "assets/thumbs/animals-09.webp", "full": "assets/full/animals-09.webp", "alt": "Rådjur på äng" },
-    { "id": "animals-10", "title": "Fjäril", "category": "animals", "tags": ["butterfly","macro","flowers"], "thumb": "assets/thumbs/animals-10.webp", "full": "assets/full/animals-10.webp", "alt": "Fjäril på blomma" },
+    { 
+      "id": "animals-01",
+      "title": "Nyfiken räv",
+      "category": "animals",
+      "tags": ["fox","wildlife","forest"],
+      "thumb": "assets/thumbs/fox.jpg",
+      "full": "assets/full/fox.jpg",
+      "alt": "Räv i natur" 
+    },
+    { 
+      "id": "animals-02",
+      "title": "Fågel i flykt",
+      "category": "animals",
+      "tags": ["bird","wings","sky"],
+      "thumb": "assets/thumbs/fågel.jpg",
+      "full": "assets/full/fågel.jpg",
+      "alt": "Fågel flyger" 
+    },
+    { 
+      "id": "animals-03",
+      "title": "Katt i fönster",
+      "category": "animals",
+      "tags": ["cat","cozy","home"],
+      "thumb": "assets/thumbs/Cat.jpg",
+      "full": "assets/full/Cat.jpg",
+      "alt": "Katt vid fönster" 
+    },
+    { 
+      "id": "animals-04",
+      "title": "Häst på fält",
+      "category": "animals",
+      "tags": ["horse","field","sun"],
+      "thumb": "assets/thumbs/häst.jpg",
+      "full": "assets/full/häst.jpg",
+      "alt": "Häst på fält" 
+    },
+    { 
+      "id": "animals-05",
+      "title": "Hund i park",
+      "category": "animals",
+      "tags": ["dog","walk","park"],
+      "thumb": "assets/thumbs/dog.jpg",
+      "full": "assets/full/dog.jpg",
+      "alt": "Hund i park" 
+    },
+    { 
+      "id": "animals-06",
+      "title": "Uggla",
+      "category": "animals",
+      "tags": ["owl","night","eyes"],
+      "thumb": "assets/thumbs/uggla.jpg",
+      "full": "assets/full/uggla.jpg",
+      "alt": "Uggla i närbild" 
+    },
+    { 
+      "id": "animals-07",
+      "title": "Fisk under ytan",
+      "category": "animals",
+      "tags": ["fish","underwater","blue"],
+      "thumb": "assets/thumbs/Fisk.jpg",
+      "full": "assets/full/Fisk.jpg",
+      "alt": "Fisk under vatten" 
+    },
+    { 
+      "id": "animals-08",
+      "title": "Björnungar",
+      "category": "animals",
+      "tags": ["bear","cubs","wild"],
+      "thumb": "assets/thumbs/björnunge.jpg",
+      "full": "assets/full/björnunge.jpg",
+      "alt": "Björnungar" 
+    },
+    { 
+      "id": "animals-09",
+      "title": "Rådjur",
+      "category": "animals",
+      "tags": ["deer","meadow","calm"],
+      "thumb": "assets/thumbs/rådjur.jpg",
+      "full": "assets/full/rådjur.jpg",
+      "alt": "Rådjur på äng" 
+    },
+    { 
+      "id": "animals-10",
+      "title": "Fjäril",
+      "category": "animals",
+      "tags": ["butterfly","macro","flowers"],
+      "thumb": "assets/thumbs/fjäril.jpg",
+      "full": "assets/full/fjäril.jpg",
+      "alt": "Fjäril på blomma" 
+    },
 
-    { "id": "food-01", "title": "Pasta", "category": "food", "tags": ["pasta","dinner","italian"], "thumb": "assets/thumbs/food-01.webp", "full": "assets/full/food-01.webp", "alt": "Tallrik med pasta" },
-    { "id": "food-02", "title": "Kanelbullar", "category": "food", "tags": ["baking","swedish","cinnamon"], "thumb": "assets/thumbs/food-02.webp", "full": "assets/full/food-02.webp", "alt": "Kanelbullar" },
-    { "id": "food-03", "title": "Sallad", "category": "food", "tags": ["salad","fresh","green"], "thumb": "assets/thumbs/food-03.webp", "full": "assets/full/food-03.webp", "alt": "Grön sallad" },
-    { "id": "food-04", "title": "Sushi", "category": "food", "tags": ["sushi","japanese","rice"], "thumb": "assets/thumbs/food-04.webp", "full": "assets/full/food-04.webp", "alt": "Sushibitar" },
-    { "id": "food-05", "title": "Burger", "category": "food", "tags": ["burger","streetfood","fries"], "thumb": "assets/thumbs/food-05.webp", "full": "assets/full/food-05.webp", "alt": "Hamburgare" },
-    { "id": "food-06", "title": "Kaffe", "category": "food", "tags": ["coffee","cafe","cup"], "thumb": "assets/thumbs/food-06.webp", "full": "assets/full/food-06.webp", "alt": "Kopp kaffe" },
-    { "id": "food-07", "title": "Bär", "category": "food", "tags": ["berries","dessert","summer"], "thumb": "assets/thumbs/food-07.webp", "full": "assets/full/food-07.webp", "alt": "Skål med bär" },
-    { "id": "food-08", "title": "Bröd", "category": "food", "tags": ["bread","bakery","crust"], "thumb": "assets/thumbs/food-08.webp", "full": "assets/full/food-08.webp", "alt": "Färskt bröd" },
-    { "id": "food-09", "title": "Tacos", "category": "food", "tags": ["tacos","spicy","party"], "thumb": "assets/thumbs/food-09.webp", "full": "assets/full/food-09.webp", "alt": "Tacos på bord" },
-    { "id": "food-10", "title": "Chokladkaka", "category": "food", "tags": ["chocolate","dessert","sweet"], "thumb": "assets/thumbs/food-10.webp", "full": "assets/full/food-10.webp", "alt": "Chokladdessert" }
+    { 
+      "id": "food-01",
+      "title": "Pasta",
+      "category": "food",
+      "tags": ["pasta","dinner","italian"],
+      "thumb": "assets/thumbs/pasta.jpg",
+      "full": "assets/full/pasta.jpg",
+      "alt": "Tallrik med pasta" 
+    },
+    { 
+      "id": "food-02",
+      "title": "Kanelbullar",
+      "category": "food",
+      "tags": ["baking","swedish","cinnamon"],
+      "thumb": "assets/thumbs/kanelbullar.jpg",
+      "full": "assets/full/kanelbullar.jpg",
+      "alt": "Kanelbullar" 
+    },
+    { 
+      "id": "food-03",
+      "title": "Sallad",
+      "category": "food",
+      "tags": ["salad","fresh","green"],
+      "thumb": "assets/thumbs/sallad.jpg",
+      "full": "assets/full/sallad.jpg",
+      "alt": "Grön sallad" 
+    },
+    { 
+      "id": "food-04",
+      "title": "Sushi",
+      "category": "food",
+      "tags": ["sushi","japanese","rice"],
+      "thumb": "assets/thumbs/sushi.jpg",
+      "full": "assets/full/sushi.jpg",
+      "alt": "Sushibitar" 
+    },
+    { 
+      "id": "food-05",
+      "title": "Burger",
+      "category": "food",
+      "tags": ["burger","streetfood","fries"],
+      "thumb": "assets/thumbs/burger.jpg",
+      "full": "assets/full/burger.jpg",
+      "alt": "Hamburgare" 
+    },
+    { 
+      "id": "food-06",
+      "title": "Kaffe",
+      "category": "food",
+      "tags": ["coffee","cafe","cup"],
+      "thumb": "assets/thumbs/kaffe.jpg",
+      "full": "assets/full/kaffe.jpg",
+      "alt": "Kopp kaffe" 
+    },
+    { 
+      "id": "food-07",
+      "title": "Bär",
+      "category": "food",
+      "tags": ["berries","dessert","summer"],
+      "thumb": "assets/thumbs/bär.jpg",
+      "full": "assets/full/bär.jpg",
+      "alt": "Skål med bär" 
+    },
+    { 
+      "id": "food-08",
+      "title": "Bröd",
+      "category": "food",
+      "tags": ["bread","bakery","crust"],
+      "thumb": "assets/thumbs/bröd.jpg",
+      "full": "assets/full/bröd.jpg",
+      "alt": "Färskt bröd" 
+    },
+    { 
+      "id": "food-09", "title": "Tacos", "category": "food",
+      "tags": ["tacos","spicy","party"],
+      "thumb": "assets/thumbs/tacos.jpg",
+      "full": "assets/full/tacos.jpg",
+      "alt": "Tacos på bord" 
+    },
+    { 
+      "id": "food-10",
+      "title": "Chokladkaka",
+      "category": "food",
+      "tags": ["chocolate","dessert","sweet"],
+      "thumb": "assets/thumbs/chokladkaka.jpg",
+      "full": "assets/full/chokladkaka.jpg",
+      "alt": "Chokladdessert" 
+    }
   ]
 }
