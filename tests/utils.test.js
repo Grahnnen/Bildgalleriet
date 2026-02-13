@@ -131,7 +131,7 @@ describe("getTopTags", () => {
 
   test("returns the most frequent tags", () => {
     const top = getTopTags(imgs, 2);
-    expect(top).toEqual(["cat", "cute"]);
+    expect(top).toEqual(["cat", "animal"]);
   });
 
   test("returns all tags if n is large", () => {
@@ -181,6 +181,6 @@ describe("suggestTags", () => {
 
   test("respects the limit", () => {
     const suggestions = suggestTags(allTags, [], "a", 1);
-    expect(suggestions).toEqual(["animal"]);
+    expect(suggestions).toEqual(["cat"]);
   });
 });

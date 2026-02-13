@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1770939214202" clover="3.2.0">
-  <project timestamp="1770939214203" name="All files">
+<coverage generated="1770979748948" clover="3.2.0">
+  <project timestamp="1770979748948" name="All files">
     <metrics statements="58" coveredstatements="57" conditionals="65" coveredconditionals="52" methods="17" coveredmethods="17" elements="140" coveredelements="126" complexity="0" loc="58" ncloc="58" packages="1" files="1" classes="1"/>
     <file name="utils.js" path="E:\Systemutveckling .net\HTML\Bildgalleriet\src\utils.js">
       <metrics statements="58" coveredstatements="57" conditionals="65" coveredconditionals="52" methods="17" coveredmethods="17"/>
